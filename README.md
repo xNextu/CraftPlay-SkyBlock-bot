@@ -8,17 +8,17 @@ Nie mam zamiaru updatowac tego projektu (raczej)<br>
 - npm (instaluje sie razem z node.js)
 <br>
 ## Jak zainstalowac:
-- Stworz folder a w nim plik o nazwie bot.js
-- Do pliku bot.js wrzuc kod z githuba [bot.js](bot.js)
-- Otworz konsole i namierz folder ktory stworzyles w pierwszym kroku a nastepnie zainstaluj package przez npm
+- Stworz folder a w nim plik o nazwie bot.js<br>
+- Do pliku bot.js wrzuc kod z githuba [bot.js](bot.js)<br>
+- Otworz konsole i namierz folder ktory stworzyles w pierwszym kroku a nastepnie zainstaluj package przez npm<br>
 ```
-cd C:\tutaj\wpisz\directory\twojego\folderu\
-npm i mineflayer
+cd C:\tutaj\wpisz\directory\twojego\folderu\<br>
+npm i mineflayer<br>
 ```
-- Ustaw 3 pierwsze linijki kodu pliku bot.js wedlug siebie, przyklad:
-~~~js
-var nazwaBota = "twoj_nickAFK";
-var hasloBota = "gbhfdgbuhdubhgehurb";
-var osobyKtoreMogaKontrolowacBota = ["twoj_nick"];
+- Ustaw 3 pierwsze linijki kodu pliku bot.js wedlug siebie, przyklad:<br>
+~~~js<br>
+var nazwaBota = "twoj_nickAFK";<br>
+var hasloBota = "gbhfdgbuhdubhgehurb";<br>
+var osobyKtoreMogaKontrolowacBota = ["twoj_nick"];<br>
 ~~~
-- Wpisz w konsoli node bot.js aby dolaczyc bota na serwer
+- Wpisz w konsoli node bot.js aby dolaczyc bota na serwer<br>
