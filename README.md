@@ -14,8 +14,8 @@ Nie mam zamiaru updatowac tego projektu (raczej)<br>
 - Otworz konsole i namierz folder ktory stworzyles w pierwszym kroku a nastepnie zainstaluj package przez npm<br>
 
 ```bat
-cd C:\tutaj\wpisz\directory\twojego\folderu\<br>
-npm i mineflayer<br>
+cd C:\tutaj\wpisz\directory\twojego\folderu\
+npm i mineflayer
 ```
 
 - Ustaw 3 pierwsze linijki kodu pliku bot.js wedlug siebie, przyklad:<br>
