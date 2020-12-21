@@ -1,5 +1,5 @@
 # CraftPlay-SkyBlock-bot
-Bot do skyblocka na craftplayu, wersja free glownie pod bycie afk<br>
+Bot do skyblocka na craftplayu, wersja glownie pod bycie afk<br>
 Nie mam zamiaru updatowac tego projektu (raczej)<br>
 
 
