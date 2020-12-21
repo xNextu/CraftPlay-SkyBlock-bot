@@ -3,7 +3,6 @@ var hasloBota = "haslo1";
 var osobyKtoreMogaKontrolowacBota = ["nextu","twoj_nick"];
 /* 
 Jezeli bot nie ma konta na serwerze to zostanie ono automatycznie utworzone
-Jak chcesz kopanie na afk to pisz discord nextu#1337
 */
 const mc = require('mineflayer')
 const bot = mc.createBot({host: 'craftplay.pl',port: 25565,username: nazwaBota,version: '1.14.2'});
